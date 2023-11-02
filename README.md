@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subinurmusa&show_icons=true&locale=en&layout=compact" alt="subinurmusa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subinurmusa&show_icons=true&locale=en" alt="subinurmusa" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subinurmusa&" alt="subinurmusa" /></p>
 
