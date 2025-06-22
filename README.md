@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **.NET Core**
 
-- 📫 How to reach me **subinurmusa10@gmail.com**
+- 📫 How to reach me **subinur565@gmail.com**
 
 - ⚡ Fun fact **i am willing to improve myself by learning different programming languages and love building innovative web programs**
 
